@@ -42,4 +42,8 @@ public class firstTestcase {
     {
     	driver.quit();
     }
+	public void extra()
+	{
+		System.out.println("WelCome:");
+	}
 }
